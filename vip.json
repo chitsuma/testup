@@ -1,0 +1,30 @@
+{
+  "vip_users": [
+    {
+      "id": "09905EE6B36243D98BBA053365561E9A",
+      "month": "1",
+      "start_date": "2025-06-21"
+    },
+    {
+      "id": "DC305037FDFA4397AD04779BE57F21ED",
+      "month": "1",
+      "start_date": "2025-06-21"
+    },
+    {
+      "id": "B77FA0904DA54C069ECD16F00F81233E",
+      "month": "1",
+      "start_date": "2025-06-22"
+    },
+    {
+      "id": "5F88BFB3AF024DA490BF9C6A905292F0",
+      "month": "3",
+      "start_date": "2025-06-22"
+    },
+    {
+      "id": "5CFFE6D83D634269B6AA64697DDCBE53",
+      "month": "1",
+      "start_date": "2025-06-22"
+    }
+  ],
+  "last_updated": "2025-06-22 20:44:38"
+}
