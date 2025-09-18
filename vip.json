@@ -1,30 +1,58 @@
 {
-  "vip_users": [
+  "allowedTokens": [
     {
-      "id": "8094F41334B14274AD5E0500821F1462",
-      "month": "1",
-      "start_date": "2025-12-21"
+      "date": "2025-11-15",
+      "isActive": false,
+      "phone": "Davi",
+      "token_id": "c1f338ab799c9113"
     },
     {
-      "id": "DC305037FDFA4397AD04779BE57F21ED",
-      "month": "1",
-      "start_date": "2025-06-21"
+      "date": "2025-07-31",
+      "isActive": false,
+      "phone": "ဆရာကြီး",
+      "token_id": "e6fdf225190e1135"
     },
     {
-      "id": "B77FA0904DA54C069ECD16F00F81233E",
-      "month": "1",
-      "start_date": "2025-06-22"
+      "date": "2025-07-31",
+      "isActive": false,
+      "phone": "အပြုံးတစ်ပွင့်",
+      "token_id": "c49b8a2568707f27"
     },
     {
-      "id": "5F88BFB3AF024DA490BF9C6A905292F0",
-      "month": "3",
-      "start_date": "2025-06-22"
+      "date": "2025-07-19",
+      "isActive": false,
+      "phone": "Android15",
+      "token_id": "626365467cb553b6"
     },
     {
-      "id": "5CFFE6D83D634269B6AA64697DDCBE53",
-      "month": "1",
-      "start_date": "2025-06-22"
+      "date": "2025-07-19",
+      "isActive": false,
+      "phone": "15",
+      "token_id": "1286d68f45f31fde"
+    },
+    {
+      "date": "2025-07-19",
+      "isActive": false,
+      "phone": "15အစမ်း",
+      "token_id": "c61451917c4d933e"
+    },
+    {
+      "date": "2025-07-19",
+      "isActive": false,
+      "phone": "အစမ်း15A",
+      "token_id": "5e91eb5403f95cdd"
+    },
+    {
+      "date": "2025-07-19",
+      "isActive": false,
+      "phone": "အစမ်း",
+      "token_id": "ea78594b15d3921b"
+    },
+    {
+      "date": "2025-09-18",
+      "isActive": true,
+      "phone": "ရဲပိုင်",
+      "token_id": "9fbe848e578bb182"
     }
-  ],
-  "last_updated": "2025-06-23 20:44:38"
+  ]
 }
