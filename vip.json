@@ -1,15 +1,1 @@
-{
-  
-"version": 1.0,
-"message": "Config version: 1 \nWhat's new \n TH VIP Server 🇹🇭 1 mother 70 bth \nAdmin👨‍💻 PPHDEV",
-"fileUrl": "https://raw.githubusercontent.com/chitsuma/testup/refs/heads/main/ssh.json",
-
-"RewardAmount": 1,
-
-"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
-"title":"Can't use continue current version, you need to upgrade V1.0.3 ",
-"link":"",
-"website":"",
-"versionCode": 3
-  
-}
+{"version":"1","message":"Config version: 1 \\nWhat's new \\n TH VIP Server 🇹🇭 1 mother 70 bth \\nAdmin👨‍💻 PPHDEV","fileUrl":"https:\/\/raw.githubusercontent.com\/chitsuma\/testup\/refs\/heads\/main\/ssh.json"}
