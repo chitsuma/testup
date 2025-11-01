@@ -1,58 +1,15 @@
 {
-  "allowedTokens": [
-    {
-      "date": "2025-11-15",
-      "isActive": false,
-      "phone": "Davi",
-      "token_id": "687b3c0ca16c88e7"
-    },
-    {
-      "date": "2025-07-31",
-      "isActive": false,
-      "phone": "ဆရာကြီး",
-      "token_id": "e6fdf225190e1135"
-    },
-    {
-      "date": "2025-07-31",
-      "isActive": false,
-      "phone": "အပြုံးတစ်ပွင့်",
-      "token_id": "c49b8a2568707f27"
-    },
-    {
-      "date": "2025-07-19",
-      "isActive": false,
-      "phone": "Android15",
-      "token_id": "626365467cb553b6"
-    },
-    {
-      "date": "2025-07-19",
-      "isActive": false,
-      "phone": "15",
-      "token_id": "1286d68f45f31fde"
-    },
-    {
-      "date": "2025-07-19",
-      "isActive": false,
-      "phone": "15အစမ်း",
-      "token_id": "c61451917c4d933e"
-    },
-    {
-      "date": "2025-07-19",
-      "isActive": false,
-      "phone": "အစမ်း15A",
-      "token_id": "5e91eb5403f95cdd"
-    },
-    {
-      "date": "2025-07-19",
-      "isActive": false,
-      "phone": "အစမ်း",
-      "token_id": "ea78594b15d3921b"
-    },
-    {
-      "date": "2025-09-18",
-      "isActive": true,
-      "phone": "ရဲပိုင်",
-      "token_id": "9fbe848e578bb182"
-    }
-  ]
+  
+"version": 1,
+"message": "Config version: 1 \nWhat's new \n TH VIP Server 🇹🇭 1 mother 70 bth \nAdmin👨‍💻 PPHDEV",
+"fileUrl": "https://raw.githubusercontent.com/chitsuma/testup/refs/heads/main/ssh.json",
+
+"RewardAmount": 1,
+
+"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
+"title":"Can't use continue current version, you need to upgrade V1.0.3 ",
+"link":"",
+"website":"",
+"versionCode": 3
+  
 }
