@@ -1,1 +1,14 @@
-{"version":"4","message":"အပ်ဒိတ် ဗာရှင်း 4","fileUrl":"https://raw.githubusercontent.com/chitsuma/testup/refs/heads/main/ssh.json","RewardAmount":1,"messageWarning":"hi","title":"hi","link":"hi","website":"hi","versionCode":1}
+{
+  
+"version":5,
+"message": "(Updated) နိုပ်ပေးပါ\n•ဆာဗာအသစ်များလဲထားပေးပါတယ်ဗျ \n•အခုချိန်ထိအားပေးတဲ့တယောက်ချင်စီးတိုင်းကိုယ်ထူပဲကျေးဇူးတင်ပါတယ်  \n• Admin Paing Paing Hein",
+"fileUrl": "https://raw.githubusercontent.com/chitsuma/testup/refs/heads/main/ssh.json",
+"RewardAmount": 1,
+
+"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
+"title":"Can't use continue current version, you need to upgrade V1.0.1 ",
+"link":"apk link web",
+"website":"apk link",
+"versionCode": 1
+  
+}
